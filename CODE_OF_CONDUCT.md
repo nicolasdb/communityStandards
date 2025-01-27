@@ -45,7 +45,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 * Communicate reasons for moderation decisions when appropriate
 * Maintain the privacy and security of reported incidents
 
-For now, report concerns to [@nicolasdb](https://github.com/nicolasdb). Additional reporting channels to be developed - see [related issue](https://github.com/nicolasdb/docker-learning-journey/issues).
+For now, report concerns to [@nicolasdb](https://github.com/nicolasdb). Additional reporting channels to be developed - see related communications in the Issues tab.
 
 ## Scope
 
@@ -76,6 +76,6 @@ Enforcement Guidelines were inspired by [Mozilla's code of conduct enforcement l
 
 For physical spaces, see our [Extended Code of Conduct for Maker Spaces](./docs/CODE_OF_CONDUCT_extended.md).
 
-> 📝 This is a living document. See our [open issues](https://github.com/nicolasdb/repoTemplate/issues/) for planned improvements and ways to contribute.
+> 📝 This is a living document. See our open issues for planned improvements and ways to contribute.
 >
 > 🗃️ Additional resources and detailed guidelines are maintained separately to keep this document focused and actionable. See our [community documentation](./docs/) for training requirements and internal procedures.
