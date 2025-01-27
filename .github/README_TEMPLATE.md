@@ -18,8 +18,8 @@
 
 - 🤝 [How to Contribute](docs/CONTRIBUTING.md)
 - 📜 [Community Standards](CODE_OF_CONDUCT.md)
-- 💡 [Share Ideas](.github/ISSUE_TEMPLATE/idea.md)
-- ❓ [Ask Questions](.github/ISSUE_TEMPLATE/question.md)
+- 💡 [Share Ideas](https://github.com/nicolasdb/repoTemplate/issues/new?template=idea.md)
+- ❓ [Ask Questions](https://github.com/nicolasdb/repoTemplate/issues/new?template=question.md)
 
 ## Contact
 

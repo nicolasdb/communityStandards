@@ -76,6 +76,6 @@ Enforcement Guidelines were inspired by [Mozilla's code of conduct enforcement l
 
 For physical spaces, see our [Extended Code of Conduct for Maker Spaces](./docs/CODE_OF_CONDUCT_extended.md).
 
-> 📝 This is a living document. See our [open issues](./issues) for planned improvements and ways to contribute.
+> 📝 This is a living document. See our [open issues](https://github.com/nicolasdb/repoTemplate/issues/) for planned improvements and ways to contribute.
 >
 > 🗃️ Additional resources and detailed guidelines are maintained separately to keep this document focused and actionable. See our [community documentation](./docs/) for training requirements and internal procedures.
