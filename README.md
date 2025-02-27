@@ -22,10 +22,13 @@ We focus on three key elements:
 
 ## Join Us
 
-- 🤝 [Getting Started Guide](docs/guides/getting-started.md)
-- 📜 [Community Standards](CODE_OF_CONDUCT.md)
+- We welcome contributions! Please see `docs/CONTRIBUTING.md` for guidelines.
+- 🤝 Getting Started Guide: `docs/guides/getting-started.md`
+- 📜 Community Standards: `CODE_OF_CONDUCT.md`
 - 💡 Share Ideas : Go to the Issues tab and select the "Idea" template.
 - ❓ Ask Questions: Go to the Issues tab and select the "Question" template.
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ## Contact
 
